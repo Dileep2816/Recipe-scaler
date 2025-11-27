@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Pancake Batter",
+    "servings": 4,
+    "ingredients": [
+      {"name": "all-purpose flour", "amount": 1.5, "unit": "cup"},
+      {"name": "sugar", "amount": 2, "unit": "tbsp"},
+      {"name": "milk", "amount": 1, "unit": "cup"},
+      {"name": "baking powder", "amount": 3.5, "unit": "tsp"},
+      {"name": "salt", "amount": 0.5, "unit": "tsp"},
+      {"name": "egg", "amount": 1, "unit": "piece"},
+      {"name": "butter", "amount": 3, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Spaghetti Carbonara",
+    "servings": 2,
+    "ingredients": [
+      {"name": "spaghetti", "amount": 200, "unit": "g"},
+      {"name": "pancetta", "amount": 100, "unit": "g"},
+      {"name": "egg yolks", "amount": 2, "unit": "piece"},
+      {"name": "whole egg", "amount": 1, "unit": "piece"},
+      {"name": "pecorino romano cheese", "amount": 50, "unit": "g"},
+      {"name": "black pepper", "amount": 1, "unit": "tsp"},
+      {"name": "salt", "amount": 1, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "servings": 24,
+    "ingredients": [
+      {"name": "all-purpose flour", "amount": 2.25, "unit": "cup"},
+      {"name": "baking soda", "amount": 1, "unit": "tsp"},
+      {"name": "salt", "amount": 1, "unit": "tsp"},
+      {"name": "butter", "amount": 1, "unit": "cup"},
+      {"name": "brown sugar", "amount": 0.75, "unit": "cup"},
+      {"name": "granulated sugar", "amount": 0.75, "unit": "cup"},
+      {"name": "vanilla extract", "amount": 1, "unit": "tsp"},
+      {"name": "eggs", "amount": 2, "unit": "piece"},
+      {"name": "chocolate chips", "amount": 2, "unit": "cup"}
+    ]
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "servings": 4,
+    "ingredients": [
+      {"name": "chicken breast", "amount": 800, "unit": "g"},
+      {"name": "yogurt", "amount": 1, "unit": "cup"},
+      {"name": "lemon juice", "amount": 2, "unit": "tbsp"},
+      {"name": "garlic", "amount": 4, "unit": "clove"},
+      {"name": "ginger", "amount": 1, "unit": "tbsp"},
+      {"name": "garam masala", "amount": 2, "unit": "tsp"},
+      {"name": "turmeric", "amount": 1, "unit": "tsp"},
+      {"name": "canned tomatoes", "amount": 400, "unit": "g"},
+      {"name": "heavy cream", "amount": 1, "unit": "cup"},
+      {"name": "butter", "amount": 2, "unit": "tbsp"},
+      {"name": "cilantro", "amount": 0.25, "unit": "cup"}
+    ]
+  },
+  {
+    "name": "Greek Salad",
+    "servings": 4,
+    "ingredients": [
+      {"name": "cucumber", "amount": 1, "unit": "large"},
+      {"name": "cherry tomatoes", "amount": 2, "unit": "cup"},
+      {"name": "red onion", "amount": 0.5, "unit": "piece"},
+      {"name": "green bell pepper", "amount": 1, "unit": "piece"},
+      {"name": "kalamata olives", "amount": 0.5, "unit": "cup"},
+      {"name": "feta cheese", "amount": 200, "unit": "g"},
+      {"name": "olive oil", "amount": 0.25, "unit": "cup"},
+      {"name": "red wine vinegar", "amount": 2, "unit": "tbsp"},
+      {"name": "dried oregano", "amount": 1, "unit": "tsp"},
+      {"name": "salt", "amount": 0.5, "unit": "tsp"}
+    ]
+  }
+]
